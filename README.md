@@ -1,5 +1,6 @@
 # bcd-fastapi
-Breast Cancer detection using prosemble ML package within fastapi framework with deployment on Heroku cloud platform
+An end-to-end implementation of Breast Cancer Detection using [prosemble ML package](https://github.com/naotoo1/prosemble) within the Flask framework with deployment on Heroku platform as a service cloud.
+
 ## How to use
 To diagnose breast cancer disease and return the confidence of the diagnosis,
 1. click on the bcd-fastapi on the environments section and then click on view deployment or simply use the link https://bcd-fastapi.herokuapp.com/docs
