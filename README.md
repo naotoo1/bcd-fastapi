@@ -11,3 +11,6 @@ To diagnose breast cancer disease and return the confidence of the diagnosis,
 "Method": "soft"
   ```
  4. click on ```Execute```
+
+# FlaskPyWebIO Verion 
+For flaskPywebio integration version refer to [bcd-FlaskPyWebIO](https://github.com/naotoo1/bcd-FlaskPyWebIO)
