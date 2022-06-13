@@ -13,5 +13,12 @@ To diagnose breast cancer disease and return the confidence of the diagnosis,
   ```
  4. click on ```Execute```
 
-## FlaskPyWebIO Version 
+### FlaskPyWebIO Version 
 For flaskPywebio integration version refer to [bcd-FlaskPyWebIO](https://github.com/naotoo1/bcd-FlaskPyWebIO)
+
+### FlaskFlasgger and Streamlit framework Version
+For Flask framework with Flasgger as well as Streamlit version: [bcd-flaskflasgger](https://github.com/naotoo1/bcd-flaskflasgger)
+
+
+
+
