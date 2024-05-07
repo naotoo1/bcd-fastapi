@@ -6,6 +6,6 @@ pandas
 prosemble
 fastapi
 uvicorn
-gunicorn==19.9.0
+gunicorn==22.0.0
 uvloop
 httptools
